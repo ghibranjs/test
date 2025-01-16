@@ -1,1 +1,0 @@
-sdffadel .git\index.lock
